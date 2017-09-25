@@ -1,0 +1,77 @@
+/* Styles go here */
+html, body {
+  height:100%;
+}
+
+body {
+  margin:0;
+}
+
+.wrapper {
+  margin:0 auto 0 auto;
+  margin-top:0px;
+  background:#2b3132;
+  min-height:100%;
+  width:720px;
+}
+
+.main {
+  padding-top:10px;
+  color:#628288;
+  Font-Family: 'Cabin', Sans-Serif;
+  Font-Size: 20px;
+  text-align:center;
+  
+}
+
+.search label {
+  padding-right:5px;
+}
+
+#load {
+  display:none;
+}
+
+button {
+  background:#628288;
+  font-size:14px;
+  color:white;
+}
+
+#weather {
+  margin:0 auto 0 auto;
+  margin-top:30px;
+  background:#628288;
+  padding-top:15px;
+  padding-bottom:15px;
+  width:60%;
+  color:white;
+  border-radius:5px;
+  border-style:ridge;
+  display:none;
+}
+
+header {
+  background:#151717;
+  color:white;
+  Font-Family: 'Roboto Condensed', Sans-Serif;
+  Font-Size: 25px;
+  text-align:center;
+  padding: 10px;
+  margin:0px;
+}
+
+footer {
+  margin:0 auto 0 auto;
+  width:720px;
+  padding-top:0px;
+  background:#151717;
+  color:white;
+}
+
+footer p {
+  Font-Family: 'Roboto Condensed', Sans-Serif;
+  text-align:center;
+  margin:0px;
+}
+
