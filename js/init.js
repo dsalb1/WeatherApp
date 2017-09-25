@@ -1,5 +1,5 @@
 "user strict";
-
+//initializes variables for different html divs using css selectors
 var searchButton = document.querySelector('button');
 var searchCity = document.querySelector('#city');
 

@@ -1,5 +1,6 @@
 "user strict";
 
+//Weather object constructor that will hold the data from our Api calls
 function Weather(cityName, description) {
   this.cityName = cityName;
   this.description = description;
